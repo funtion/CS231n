@@ -1,0 +1,6 @@
+*.pyc
+*.zip
+*.jpeg
+*.txt
+!requirements.txt
+*.h5
